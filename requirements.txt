@@ -1,3 +1,4 @@
+prettyconf
 future
 emoji
 requests
